@@ -1,4 +1,4 @@
 # hello-world
 just one repository
 
-i'm a fronted developer, and it's my first project on github
+i'm a full-stack developer, and it's my first project on github
